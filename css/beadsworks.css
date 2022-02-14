@@ -113,7 +113,6 @@ section {
 
 .check-btn i{
   float: right;
-  margin-right: 40px;
   color: #c3aa45;
   font-size: 30px;
   display: none;
@@ -1586,6 +1585,9 @@ nav .navigation li{
 }
 .product-content{
   padding: unset;
+}
+.product-box .product-content .bottom-line{
+  width: 285px;
 }
 .product-box .product-content a{
   font-size: 24px;
